@@ -26,3 +26,6 @@ Pros:
 - Exceptionally well-established nutritional and veterinary profiles
 
 - Low incidence of baseline skeletal deformities under standard farming practices
+
+Cons:
+
