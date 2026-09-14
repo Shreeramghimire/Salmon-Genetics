@@ -75,3 +75,4 @@ Farmed Atlantic salmon in Norway are monitored using standardized welfare assess
 
 **Skeletal and Jaw Deformities:** The rapid early growth of triploids places extreme demands on bone mineralization. Insufficient phosphorus in the freshwater stage triggers lower-jaw deformities (operculum shortening), preventing normal mouth closure and severely disrupting feed intake and respiration.
 
+**Sea-Phase Mortality Baseline:** The broader sea-phase mortality rate for salmon in Norwegian pens sits at 14.2% (an improvement from 15.4% in 2024 and a peak of 16.7% in 2023). Triploid cohorts routinely underperformed this baseline in commercial trials due to poor resilience against winter sores and common pathogens.
