@@ -37,3 +37,6 @@ Cons:
 
 ## Triploid Salmon (3n)
 
+Pros:
+
+-
