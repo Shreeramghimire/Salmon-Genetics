@@ -44,3 +44,7 @@ Pros:
 - No early maturation: female triploids never mature early, preserving flesh quality right up to harvest
 
 - Rapid juvenile growth: accelerated growth performance during the freshwater hatchery stage
+
+- Regulatory incentives: qualified for discounted Norwegian "Green Production Concessions" (licenses)
+
+  
