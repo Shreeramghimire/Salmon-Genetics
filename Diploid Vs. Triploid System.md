@@ -59,4 +59,5 @@ Cons:
 
 Escaped farmed salmon are one of the biggest conservation concerns for wild Atlantic salmon in Norway, and this is the actual reason triploid technology was pursued so seriously:
 
+**Diploid escapees** are fully fertile. If they reach a spawning river and interbreed with wild salmon, their offspring carry farmed-strain genetics, traits selected for fast growth and captivity, not wild survival. Repeated introgression of this kind has been linked to reduced fitness and genetic homogenization in wild populations, which is why Norway regulates the industry partly through a "traffic light system" tied to genetic impact on wild rivers.
 
