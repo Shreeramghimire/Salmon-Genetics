@@ -54,3 +54,5 @@ Cons:
 - Rigid nutritional demands; prone to catastrophic jaw deformations and severe cataracts if dietary needs are missed
 
 - Drastically lower tolerance to warm water (>12°C) and low dissolved oxygen levels
+
+## Escape Genetics: Why Triploidy Was Attractive in the First Place
