@@ -66,3 +66,6 @@ Escaped farmed salmon are one of the biggest conservation concerns for wild Atla
 This is precisely why triploidy looked like a structural fix to aquaculture's biggest environmental liability, not just a production tweak and why its subsequent welfare failures were such a disappointment for the industry and regulators alike.
 
 ## Relation to Fish Welfare Indicators
+
+Farmed Atlantic salmon in Norway are monitored using standardized welfare assessment tools, such as the Institute of Marine Research Laksvel project, which scores morphological degradation on a scale from 0 (perfect) to 3 (severe).
+
