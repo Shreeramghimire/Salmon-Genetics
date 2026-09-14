@@ -1,1 +1,7 @@
+| **Concept** | **Diploid (2n)** | **Triploid (3n)** |
+|---|---|---|
+| **Chromosomes** | Two complete sets (one from each parent) | Three complete sets (typically produced by retaining the second polar body through pressure or thermal shock of fertilized eggs) |
+| **Cellular Structure** | Normal cell size and count | Larger but fewer cells, leading to altered organ surface areas and changed nuclear-to-cytoplasmic ratios |
+| **Fertility** | Fully fertile. Capable of natural reproduction if escaped into wild rivers | Generally sterile. Development of ovaries/testes is biologically arrested |
+
 
