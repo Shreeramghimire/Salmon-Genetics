@@ -51,4 +51,6 @@ Cons:
 
 - High susceptibility to emaciation ("loser fish" phenomenon) and poor tolerance to mechanical/thermal delousing
 
+- Rigid nutritional demands; prone to catastrophic jaw deformations and severe cataracts if dietary needs are missed
+
 - 
