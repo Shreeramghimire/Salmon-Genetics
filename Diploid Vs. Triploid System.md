@@ -64,3 +64,5 @@ Escaped farmed salmon are one of the biggest conservation concerns for wild Atla
 **Triploid escapees**, being sterile, cannot interbreed at all. Even a large-scale escape event poses zero genetic risk to wild stocks; this is the "absolute genetic containment" benefit listed above.
 
 This is precisely why triploidy looked like a structural fix to aquaculture's biggest environmental liability, not just a production tweak and why its subsequent welfare failures were such a disappointment for the industry and regulators alike.
+
+## Relation to Fish Welfare Indicators
