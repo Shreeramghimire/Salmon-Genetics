@@ -61,3 +61,4 @@ Escaped farmed salmon are one of the biggest conservation concerns for wild Atla
 
 **Diploid escapees** are fully fertile. If they reach a spawning river and interbreed with wild salmon, their offspring carry farmed-strain genetics, traits selected for fast growth and captivity, not wild survival. Repeated introgression of this kind has been linked to reduced fitness and genetic homogenization in wild populations, which is why Norway regulates the industry partly through a "traffic light system" tied to genetic impact on wild rivers.
 
+**Triploid escapees**, being sterile, cannot interbreed at all. Even a large-scale escape event poses zero genetic risk to wild stocks; this is the "absolute genetic containment" benefit listed above.
