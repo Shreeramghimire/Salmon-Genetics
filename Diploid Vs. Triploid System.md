@@ -5,3 +5,6 @@
 | **Fertility** | Fully fertile. Capable of natural reproduction if escaped into wild rivers | Generally sterile. Development of ovaries/testes is biologically arrested |
 
 
+## How Triploid Salmon Are Produced
+
+Triploidy is induced immediately after fertilization, before the egg completes meiosis:
