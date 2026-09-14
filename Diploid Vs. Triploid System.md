@@ -69,6 +69,9 @@ This is precisely why triploidy looked like a structural fix to aquaculture's bi
 
 Farmed Atlantic salmon in Norway are monitored using standardized welfare assessment tools, such as the Institute of Marine Research Laksvel project, which scores morphological degradation on a scale from 0 (perfect) to 3 (severe).
 
-**Emaciation** and the "Loser Fish" Phenomenon: Triploid salmon display a significantly higher frequency of severe emaciation. Their altered cell size changes gut surface area, decreasing nutrient absorption efficiency. When combined with stress, affected fish stop feeding entirely and become chronic non-feeders.
+**Emaciation and the "Loser Fish" Phenomenon:** Triploid salmon display a significantly higher frequency of severe emaciation. Their altered cell size changes gut surface area, decreasing nutrient absorption efficiency. When combined with stress, affected fish stop feeding entirely and become chronic non-feeders.
 
-**Cataracts and Vision Loss** Triploids synthesize lens proteins differently. Without elevated dietary histidine, they develop severe cataracts. Blinded fish cannot locate or compete for falling feed pellets in sea cages, rapidly compounding the emaciation rate.
+**Cataracts and Vision Loss:** Triploids synthesize lens proteins differently. Without elevated dietary histidine, they develop severe cataracts. Blinded fish cannot locate or compete for falling feed pellets in sea cages, rapidly compounding the emaciation rate.
+
+**Skeletal and Jaw Deformities:** The rapid early growth of triploids places extreme demands on bone mineralization. Insufficient phosphorus in the freshwater stage triggers lower-jaw deformities (operculum shortening), preventing normal mouth closure and severely disrupting feed intake and respiration.
+
