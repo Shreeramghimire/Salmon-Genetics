@@ -33,4 +33,4 @@ Cons:
 
 - Vulnerable to early sexual maturation at market weight, which ruins flesh quality (pale, low fat) and triggers immune suppression
 
-- 
+- Requires costly, energy-intensive artificial lighting systems (photoperiod control) to suppress maturation in sea cages
