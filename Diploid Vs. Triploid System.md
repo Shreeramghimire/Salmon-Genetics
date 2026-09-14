@@ -13,4 +13,6 @@ Triploidy is induced immediately after fertilization, before the egg completes m
 
 - **Method:** Fertilized eggs are subjected to a brief hydrostatic pressure shock (commercially standard) or, less commonly, a thermal shock, applied within a tightly controlled window (typically minutes after fertilization). This traps the second polar body inside the egg instead of letting it extrude.
 
+- **Result:** The egg develops as 3n instead of 2n. Because the process acts on eggs, not adults, it produces genetically female (all-female) triploid populations when combined with sex-reversed broodstock—desirable because female triploids never mature early. In contrast, male triploids can still show some gonadal development.
+
 - 
