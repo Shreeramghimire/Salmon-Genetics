@@ -8,3 +8,7 @@
 ## How Triploid Salmon Are Produced
 
 Triploidy is induced immediately after fertilization, before the egg completes meiosis:
+
+- **Mechanism:** A normal fertilized egg briefly holds three chromosome sets—one from the sperm and two from the egg—until it expels the extra set as a "second polar body." Triploid induction works by physically blocking that expulsion.
+
+- 
