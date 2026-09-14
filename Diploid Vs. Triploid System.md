@@ -29,3 +29,6 @@ Pros:
 
 Cons:
 
+- High risk of genetic contamination and dilution of wild salmon strains if escapes occur
+
+- 
