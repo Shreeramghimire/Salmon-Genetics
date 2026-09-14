@@ -69,3 +69,4 @@ This is precisely why triploidy looked like a structural fix to aquaculture's bi
 
 Farmed Atlantic salmon in Norway are monitored using standardized welfare assessment tools, such as the Institute of Marine Research Laksvel project, which scores morphological degradation on a scale from 0 (perfect) to 3 (severe).
 
+**Emaciation** and the "Loser Fish" Phenomenon: Triploid salmon display a significantly higher frequency of severe emaciation. Their altered cell size changes gut surface area, decreasing nutrient absorption efficiency. When combined with stress, affected fish stop feeding entirely and become chronic non-feeders.
