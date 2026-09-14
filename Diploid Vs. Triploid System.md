@@ -49,4 +49,6 @@ Pros:
 
 Cons:
 
+- High susceptibility to emaciation ("loser fish" phenomenon) and poor tolerance to mechanical/thermal delousing
+
 - 
