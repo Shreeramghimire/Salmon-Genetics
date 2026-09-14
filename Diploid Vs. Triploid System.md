@@ -47,4 +47,6 @@ Pros:
 
 - Regulatory incentives: qualified for discounted Norwegian "Green Production Concessions" (licenses)
 
-  
+Cons:
+
+- 
