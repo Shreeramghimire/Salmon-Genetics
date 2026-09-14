@@ -19,3 +19,10 @@ Triploidy is induced immediately after fertilization, before the egg completes m
 
 ## Diploid Salmon (2n)
 
+Pros:
+
+- High environmental robustness to thermal spikes and physical handling
+  
+- Exceptionally well-established nutritional and veterinary profiles
+
+- Low incidence of baseline skeletal deformities under standard farming practices
