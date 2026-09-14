@@ -40,3 +40,7 @@ Cons:
 Pros:
 
 - **Absolute genetic containment:** zero risk of interbreeding with wild salmon in Norwegian rivers
+
+- No early maturation: female triploids never mature early, preserving flesh quality right up to harvest
+
+- 
