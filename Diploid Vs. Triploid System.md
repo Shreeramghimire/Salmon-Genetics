@@ -17,4 +17,5 @@ Triploidy is induced immediately after fertilization, before the egg completes m
 
 - **Reliability:** Induction is not 100% efficient-a small residual fraction of eggs remain diploid, so triploid batches are typically verified (e.g., via flow cytometry or erythrocyte nuclear size) before stocking.
 
-- 
+## Diploid Salmon (2n)
+
