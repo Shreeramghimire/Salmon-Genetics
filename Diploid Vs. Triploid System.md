@@ -39,4 +39,4 @@ Cons:
 
 Pros:
 
--
+- **Absolute genetic containment:** zero risk of interbreeding with wild salmon in Norwegian rivers
