@@ -31,4 +31,6 @@ Cons:
 
 - High risk of genetic contamination and dilution of wild salmon strains if escapes occur
 
+- Vulnerable to early sexual maturation at market weight, which ruins flesh quality (pale, low fat) and triggers immune suppression
+
 - 
