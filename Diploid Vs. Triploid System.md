@@ -11,4 +11,6 @@ Triploidy is induced immediately after fertilization, before the egg completes m
 
 - **Mechanism:** A normal fertilized egg briefly holds three chromosome sets-one from the sperm and two from the egg-until it expels the extra set as a "second polar body." Triploid induction works by physically blocking that expulsion.
 
+- **Method:** Fertilized eggs are subjected to a brief hydrostatic pressure shock (commercially standard) or, less commonly, a thermal shock, applied within a tightly controlled window (typically minutes after fertilization). This traps the second polar body inside the egg instead of letting it extrude.
+
 - 
