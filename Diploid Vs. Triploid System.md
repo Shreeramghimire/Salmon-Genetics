@@ -56,3 +56,7 @@ Cons:
 - Drastically lower tolerance to warm water (>12°C) and low dissolved oxygen levels
 
 ## Escape Genetics: Why Triploidy Was Attractive in the First Place
+
+Escaped farmed salmon are one of the biggest conservation concerns for wild Atlantic salmon in Norway, and this is the actual reason triploid technology was pursued so seriously:
+
+
