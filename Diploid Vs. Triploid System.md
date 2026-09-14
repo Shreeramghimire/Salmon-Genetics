@@ -76,3 +76,12 @@ Farmed Atlantic salmon in Norway are monitored using standardized welfare assess
 **Skeletal and Jaw Deformities:** The rapid early growth of triploids places extreme demands on bone mineralization. Insufficient phosphorus in the freshwater stage triggers lower-jaw deformities (operculum shortening), preventing normal mouth closure and severely disrupting feed intake and respiration.
 
 **Sea-Phase Mortality Baseline:** The broader sea-phase mortality rate for salmon in Norwegian pens sits at 14.2% (an improvement from 15.4% in 2024 and a peak of 16.7% in 2023). Triploid cohorts routinely underperformed this baseline in commercial trials due to poor resilience against winter sores and common pathogens.
+
+
+Following extensive commercial pushback and updated risk assessments by the Norwegian Scientific Committee for Food and Environment (VKM), commercial open-sea production of triploid salmon has been largely halted in Norway due to intractable animal welfare concerns.
+
+Rather than simply reverting to conventional diploid production and accepting its escape-genetics risk, the industry has pivoted toward next-generation sterility alternatives that aim to combine triploidy's containment benefit with diploid's welfare robustness:
+
+**Gene editing (CRISPR-based, e.g. CRITEX):** knocking out specific genes required for germ cell development to yield sterile fish that retain 100% of the robust health and welfare characteristics of standard diploids
+
+**Embryonic blocking ("the Nofima method"):** early-stage interventions that produce normal-celled, highly resilient sterile populations without the physiological burdens of an extra chromosome set
