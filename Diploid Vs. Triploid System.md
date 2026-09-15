@@ -109,3 +109,6 @@ Key concerns included:
 - They can be more susceptible to **infectious diseases**, including infectious salmon anaemia (ISA), and to bacterial wound infections caused by *Moritella viscosa*. A separate field study reported **9.4-fold higher odds of primary ISA outbreaks** for triploid compared with diploid salmon at the site level. (https://weareaquaculture.com/news/aquaculture/triploid-farmed-salmon-have-poorer-health-says-norwegian-report)  
 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9805046/)
 
+- Triploid salmon can have **lower tolerance to stress and handling** and reduced robustness under **higher water temperatures**.  
+  (https://weareaquaculture.com/news/aquaculture/triploid-farmed-salmon-have-poorer-health-says-norwegian-report)
+
