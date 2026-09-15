@@ -101,3 +101,5 @@ Rather than simply reverting to conventional diploid production and accepting it
 
 A formal welfare assessment significantly affected the commercial viability of triploid salmon in Norway. The Norwegian Food Safety Authority (*Mattilsynet*) commissioned an assessment by the Norwegian Scientific Committee for Food and Environment (VKM). The report, published on 1 November 2023, concluded that triploid salmon were **"unsuitable for commercial farming under current industry conditions."**
 
+Key concerns included:
+
