@@ -103,3 +103,8 @@ A formal welfare assessment significantly affected the commercial viability of t
 
 Key concerns included:
 
+- Triploid salmon are more prone to **skeletal and cardiac abnormalities, cataracts, and skin ulcers**.  
+  (https://weareaquaculture.com/news/aquaculture/triploid-farmed-salmon-have-poorer-health-says-norwegian-report)
+
+- 
+
