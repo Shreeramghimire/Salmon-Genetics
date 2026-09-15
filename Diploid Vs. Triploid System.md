@@ -87,3 +87,12 @@ Rather than simply reverting to conventional diploid production and accepting it
 **Embryonic blocking ("the Nofima method"):** early-stage interventions that produce normal-celled, highly resilient sterile populations without the physiological burdens of an extra chromosome set
 
 ## Situation in Norway
+
+| **Aspect** | **Detail** |
+|---|---|
+| **Timeline** | Triploid salmon were trialled in Norway starting in 2013. |
+| **Scale** | Approximately 30–35 million triploid salmon were produced as part of testing and documentation of commercial triploid production over the roughly 10-year trial period. |
+| **Rearing Conditions** | Norwegian research focused on triploid salmon grown under traditional open-sea net-pen conditions, unlike land-based producers such as AquaBounty. |
+| **Production Method** | Eggs are induced to retain three chromosome sets through a brief pressure treatment applied shortly after fertilization, causing the egg to retain an additional set of chromosomes. |
+| **Verification** | Triploidy can be confirmed through blood-cell analysis. Triploid fish have larger blood cells because the additional chromosome set increases nuclear size. |
+| **Incentive Structure** | Discounted "green" production licences were offered to farms willing to use triploid stock, providing a regulatory incentive for commercial adoption alongside the research trials. |
