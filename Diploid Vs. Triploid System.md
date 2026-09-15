@@ -117,6 +117,6 @@ Key concerns included:
 
 Hvas, M., Morin, A., & Hansen, T. J. (2025). Triploid Atlantic salmon are physiologically disadvantaged at larger body sizes. Scientific Reports, 16(1), 770. (https://www.nature.com/articles/s41598-025-30342-5)
 
-Madaro, A., Kjøglum, S., Hansen, T., Fjelldal, P. G., & Stien, L. H. (2022). A comparison of triploid and diploid Atlantic salmon (Salmo salar) performance and welfare under commercial farming conditions in Norway. Journal of Applied Aquaculture, 34(4), 1021-1035.
+Madaro, A., Kjøglum, S., Hansen, T., Fjelldal, P. G., & Stien, L. H. (2022). A comparison of triploid and diploid Atlantic salmon (Salmo salar) performance and welfare under commercial farming conditions in Norway. Journal of Applied Aquaculture, 34(4), 1021-1035. (https://www.tandfonline.com/doi/full/10.1080/10454438.2021.1916671)
 
 
