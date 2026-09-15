@@ -96,3 +96,5 @@ Rather than simply reverting to conventional diploid production and accepting it
 | **Production Method** | Eggs are induced to retain three chromosome sets through a brief pressure treatment applied shortly after fertilization, causing the egg to retain an additional set of chromosomes. |
 | **Verification** | Triploidy can be confirmed through blood-cell analysis. Triploid fish have larger blood cells because the additional chromosome set increases nuclear size. |
 | **Incentive Structure** | Discounted "green" production licences were offered to farms willing to use triploid stock, providing a regulatory incentive for commercial adoption alongside the research trials. |
+
+### What Stopped It
