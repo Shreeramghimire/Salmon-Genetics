@@ -98,3 +98,6 @@ Rather than simply reverting to conventional diploid production and accepting it
 | **Incentive Structure** | Discounted "green" production licences were offered to farms willing to use triploid stock, providing a regulatory incentive for commercial adoption alongside the research trials. |
 
 ### What Stopped It
+
+A formal welfare assessment significantly affected the commercial viability of triploid salmon in Norway. The Norwegian Food Safety Authority (*Mattilsynet*) commissioned an assessment by the Norwegian Scientific Committee for Food and Environment (VKM). The report, published on 1 November 2023, concluded that triploid salmon were **"unsuitable for commercial farming under current industry conditions."**
+
