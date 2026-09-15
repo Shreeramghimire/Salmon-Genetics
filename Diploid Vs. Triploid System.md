@@ -85,3 +85,5 @@ Rather than simply reverting to conventional diploid production and accepting it
 **Gene editing (CRISPR-based, e.g. CRITEX):** knocking out specific genes required for germ cell development to yield sterile fish that retain 100% of the robust health and welfare characteristics of standard diploids
 
 **Embryonic blocking ("the Nofima method"):** early-stage interventions that produce normal-celled, highly resilient sterile populations without the physiological burdens of an extra chromosome set
+
+## Situation in Norway
