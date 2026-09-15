@@ -113,4 +113,8 @@ Key concerns included:
 
 - VKM noted that some of these problems could theoretically be reduced by **optimizing production and rearing conditions specifically for triploid salmon**. However, the necessary changes were considered difficult to implement under existing commercial farming conditions.
 
+## For more:
+
+Madaro, A., Kjøglum, S., Hansen, T., Fjelldal, P. G., & Stien, L. H. (2022). A comparison of triploid and diploid Atlantic salmon (Salmo salar) performance and welfare under commercial farming conditions in Norway. Journal of Applied Aquaculture, 34(4), 1021-1035.
+
 
